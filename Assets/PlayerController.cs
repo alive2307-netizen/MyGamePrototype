@@ -149,3 +149,5 @@ public class PlayerController : MonoBehaviour
         if (healthText != null) healthText.text = "Жизни: " + currentHealth;
     }
 }
+
+// Движение через джойстик и клавиатуру
